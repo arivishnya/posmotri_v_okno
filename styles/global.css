@@ -54,7 +54,7 @@ ol {
 }
 
 .visually-hidden {
-  position: absolute;
+  position: relative;
   overflow: hidden;
   clip: rect(0 0 0 0);
   inline-size: 1px;
