@@ -101,6 +101,16 @@
   margin: 0;
 }
 
+.visually-hidden {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  inline-size: 1px;
+  block-size: 1px;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
 .search-form__pseudo-checkbox {
   position: relative;
   width: 19px;
