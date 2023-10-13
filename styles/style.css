@@ -52,6 +52,7 @@
 
 .search-form__fieldset-title {
   font-family: 'Fira Sans Condensed', sans-serif;
+  font-weight: 400;
   font-size: 18px;
   line-height: normal;
 }
@@ -180,7 +181,7 @@
 }
 
 .content__list-item {
-  margin-bottom: 30px;
+  margin-bottom: 26px;
 }
 
 .content__list-item:last-child {
@@ -215,7 +216,7 @@
   display: flex;
   flex-direction: column;
   gap: 6px;
-  width: 100%;
+  width: 200px;
   color: #fff;
 }
 
@@ -228,7 +229,10 @@
 }
 
 .content__video-card-description {
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-weight: 400;
   font-size: 18px;
+  font-style: normal;
   line-height: 16.2px;
 }
 

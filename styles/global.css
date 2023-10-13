@@ -32,6 +32,10 @@ ol {
   height: 34px;
   border: 1px solid #FFF;
   color: #fff;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: normal;
   background-color: transparent;
   cursor: pointer;
 }
